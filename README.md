@@ -7,13 +7,8 @@ I have some works with **Python**, contact me if you have same interesting or so
 
 ### 💡 Projects with My Work
 
-- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
-- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+- [**AkShare**](https://github.com/jindaxiang/akshare): AkShare is an elegant and simple financial data interface library for Python, built for human beings!
  
 ### 💻 Open Source Work Stats
 
 ![jindaxiang's Github stats](https://github-readme-stats.vercel.app/api?username=jindaxiang&show_icons=true)
-
----
-⭐️ From [jindaxiang](https://github.com/jindaxiang)
