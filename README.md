@@ -1,6 +1,6 @@
 ### 👋 Introduction
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=lizheming&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
 Hi guys, I'm **Albert King**. I am a Python developer from Chengdu, China. I'm currently working on AkShare.  
 I have some works with **Python**, contact me if you have same interesting or some questions!
