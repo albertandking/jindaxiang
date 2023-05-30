@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hello everyone! I'm **Albert**, a developer focused on Python. Currently, I'm working on the **AKFamily** project. In addition to that, I'm also skilled in C/C++ and R languages. If you're interested in my project or have any questions, please feel free to contact me!
+Hello everyone! I'm **Albert**, a developer focused on **Python**. Currently, I'm working on the **AKFamily** project. In addition to that, I'm also skilled in **C/C++** and **R** languages. If you're interested in my project or have any questions, please feel free to contact me!
 
 ### 💡 Projects with My Work
 
